@@ -1,0 +1,133 @@
+body {
+    font-family: 'Montserrat';
+    
+}
+#title {
+    background-color: #FF4C68;
+}
+h1 {
+    color: white;
+    
+    font-family: 'Montserrat-bold', sans-serif;
+    font-size: 3rem;
+    line-height: 1.5;
+   
+}
+.container-fluid {
+    padding: 0 15%;
+  
+        -webkit-backdrop-filter: blur(8px);
+        backdrop-filter: blur(100%);
+        
+   
+
+}
+.img {
+    transform: rotate(25deg);
+    width: 60%;
+    position: relative;
+    left: 50px;
+}
+.navbar-brand {
+    font-family: ubuntu;
+    font-size: 3rem;
+}
+.navbar {
+    padding-bottom: 2.5rem;
+   
+   
+}
+.nav-item {
+    padding: 0 10px;
+    font-family: montserrat-light;
+   font-size: 1.3rem;
+}
+.Download-button {
+    margin: 5% 3% 5% 0;
+}
+.jk{
+    margin-bottom: 30px;
+}
+i:hover {
+ color: red;
+}
+h6 {
+    font-family: montserrat-bold;
+    font-size: 1.5rem;
+    color: black;
+}
+.text {
+    text-align: center;
+    line-height: auto;
+}
+.smaller {
+    font-size: smaller;
+}
+
+#testimonials {
+    background-color: #FF4C68;
+    text-align: center;
+    font-family: montserrat-bold;
+    padding: 10%;
+    color: white;
+    font-size: 1rem;
+}
+.dog-img {
+    width: 10%;
+    border-radius: 100%;
+    padding: 3%;
+}
+
+#press {
+    background-color: #FF4C68;
+    text-align: center;
+    padding-bottom: 5%;
+
+}
+.press-logo {
+    width: 150px;
+}
+#pricing {
+    font-family: montserrat;
+    padding: 100px;
+    text-align: center;
+
+}
+.pricing-column {
+    padding: 3% 2%;
+}
+h3{
+     font-weight: bold;
+}
+
+#features {
+    background-color: white;
+    position: relative;
+    bottom: 100px;
+    z-index: 1;
+}
+
+
+    #cta {
+        background-color: #FF4C68;
+        text-align: center;
+    padding: 8% 10% 5%;
+    }
+.foos {
+    font-family: montserrat-bold;
+    color: white;
+    font-size: 3.5rem;
+    line-height: 1.5;
+}
+#footer {
+    background-color: white;
+    text-align: center;
+    padding: 3%;
+}
+
+.spa {
+    margin: 0 10px 25px;
+}
+.spa:hover {
+    color: blue;
+}
